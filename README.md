@@ -12,7 +12,7 @@ This repository showcases my journey through hands-on engineering, home renovati
   - Painting and finishing interior spaces
   - Installing flooring and carpets
   - Fitting floarting staircase
-  <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/22aa0320-8ace-46d1-8533-dd4cc15d3cb8" />
+  <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/22aa0320-8ace-46d1-8533-dd4cc15d3cb8" />
   <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5b7195cb-b120-4cff-a4b4-83c813b43e89" />
 
 

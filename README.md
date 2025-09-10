@@ -1,5 +1,5 @@
 # Personal Projects
-This repository showcases my journey through hands-on engineering, home renovation, automotive maintenance, and creative builds. What began with helping my family renovate our home has grown into a wide range of projects — from building Marvel-inspired replicas and functional props to working on cars and designing a mini wind tunnel to study aerodynamics. Each project has pushed me to learn new skills, experiment with ideas, and apply both creativity and engineering thinking.
+This repository showcases my journey through hands-on engineering, home renovation, automotive maintenance, and creative builds. What began with helping my family renovate our home has grown into a wide range of projects — from building Marvel-inspired replicas and functional props to working on cars and designing a mini wind tunnel to study aerodynamics. Each project has pushed me to learn new skills, experiment with ideas, and apply both creativity and engineering thinking.Most of creative projects are proudly on display in bedroom, whilst some when I find time are still being worked on.
 
 ---
 
@@ -50,8 +50,7 @@ This repository showcases my journey through hands-on engineering, home renovati
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/74a0275b-30ca-486d-b485-44bf2896def8" />
 
   - Thor’s Stormbreaker
-s<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/77dbd289-f7a4-496a-b0ba-0fd49d8dfae6" />
-
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/77dbd289-f7a4-496a-b0ba-0fd49d8dfae6" />
   - Black Panther swords
   - Assasin's Creed axe
   - Lightsaber

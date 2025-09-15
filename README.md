@@ -76,3 +76,14 @@ This repository showcases my journey through hands-on engineering, home renovati
 
 ##  Skills & Passion
 These projects highlight my enthusiasm for practical engineering, design, and hands-on problem-solving. More importantly, they demonstrate how I connect creative ideas with real-world engineering applications, directly supporting my passion for motorsport and technical innovation.
+
+## Author
+
+**Imaad Javaid**  
+ [Imaad.Javaid@outlook.com](mailto:Imaad.Javaid@outlook.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imaad-javaid-854941369)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IJF1)
+
+---
+
